@@ -1,0 +1,4 @@
+interface:
+  display_name: "External Display Clarity"
+  short_description: "Tune macOS external displays for crisper HiDPI-like scaling"
+  default_prompt: "Use $tune-external-display-clarity to diagnose and improve the clarity of this external display on macOS."
